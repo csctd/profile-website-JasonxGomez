@@ -1,6 +1,6 @@
 # -- Project information -----------------------------------------------------
 
-project = 'Jason's Public Profile'
+project = "Jason's Public Profile"
 copyright = '2022, Jason Gomez'
 author = 'Jason Gomez'
 
