@@ -1,7 +1,7 @@
 # -- Project information -----------------------------------------------------
 
-project = "Jason's Public Profile"
-copyright = '2022, Jason Gomez'
+project = "Summer 2023"
+copyright = '2023, Jason Gomez'
 author = 'Jason Gomez'
 
 
